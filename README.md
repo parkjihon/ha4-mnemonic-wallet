@@ -4,7 +4,8 @@
 
 
 # 실행 방법
-`npm install`
-`npm start`
+#### `npm install` 
+
+#### `npm start`
 
 http://localhost:3000 접속
